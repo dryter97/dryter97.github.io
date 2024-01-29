@@ -1,9 +1,3 @@
-/*BEGIN Xbox One Controller Styling*/
-.controller.xbox {
-  background: url(xbox-assets/base.svg);
-  height: 630px;
-  width: 750px;
-
  .xbox.white {
   background: url(baselime.svg);
 }
