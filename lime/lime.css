@@ -5,7 +5,13 @@
   width: 750px;
   /*    margin-left: -375px;
         margin-top: -285px;*/
-/*}
+}
+
+/*
+.controller.xbox {
+  background: url(xbox-assets/base.svg);
+  height: 630px;
+  width: 750px;
 
  .xbox.white {
   background: url(xbox-assets/base-white.svg);
@@ -13,14 +19,15 @@
 
 .xbox.disconnected {
   background: url(xbox-assets/disconnected.svg);
-}*/
+}
+*/
 
  .xbox.white {
-  background: url(xbox-assets/base-white.svg);
+  background: url(/baselime.svg);
 }
 
 .xbox.disconnected {
-  background: url(baselime.svg);
+  background: url(xbox-assets/disconnected.svg);
 }
 
 .xbox.disconnected div {
